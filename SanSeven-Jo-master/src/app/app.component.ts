@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'SanSeven';
+  imgurl= './src/assets/logonome_branco_sem_fundo.png';
 }
